@@ -1,0 +1,4 @@
+1. Services to familiarize self with
+  * [CloudFormation](https://docs.aws.amazon.com/cloudformation/?id=docs_gateway)
+
+2.
