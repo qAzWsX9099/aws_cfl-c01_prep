@@ -1,4 +1,14 @@
 1. Services to familiarize self with
   * [CloudFormation](https://docs.aws.amazon.com/cloudformation/?id=docs_gateway)
+  * [EC2 Auto Scaling]
+  * [Elastic Load Balancing]
+  * [Amazon Simple Notification Service]
+  * [Amazon Simple Queue Service]
+  * [AWS Lambda]
+    * serverless computing
+  * [Amazon Elastic Container Service (Amazon ECS)]
+  * [Amazon Elastic Kubernetes Service (Amazon EKS)]
+  * [AWS Fargate]
+  * 
 
-2.
+2. Review pricing plans and benefits
